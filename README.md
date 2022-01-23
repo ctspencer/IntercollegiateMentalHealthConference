@@ -1,4 +1,4 @@
-# IntercollegiateMentalHealthConference
+# Intercollegiate Mental Health Conference
 Intercollegiate Mental Health Conference Repo
 
 
