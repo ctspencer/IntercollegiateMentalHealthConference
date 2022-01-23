@@ -1,5 +1,4 @@
 # Intercollegiate Mental Health Conference
-Intercollegiate Mental Health Conference Repo
 
 
 On September 16, 2017 the Georgia Tech student body witnessed the tragic death of Scout
